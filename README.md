@@ -78,10 +78,12 @@ UK-Ecom-Data-Analysis/
 ---
 
 ## ⚙️ How to Use
-Clone this repository.
 
-Open Dashboard/Dashboard_UK_Ecom_Analysis_v1.pbix in Power BI Desktop.
+1. **Clone this repository** `git clone https://github.com/yourUserName/UK-Ecom-Data-Analysis.git`
 
-Note: If the data fails to refresh, please go to Transform Data -> Edit Parameters and change FolderPath to your local directory.
+2. **Open the Dashboard** Locate and open `Dashboard/Dashboard_UK_Ecom_Analysis_v1.pbix` in Power BI Desktop.
 
-Created by Susan | Shenzhen University
+3. **Update Data Source Path** If the data fails to refresh, follow these steps:
+   - Click **Transform Data** in the ribbon.
+   - Select **Edit Parameters**.
+   - Change `FolderPath` to your current local directory.
