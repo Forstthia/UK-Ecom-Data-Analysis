@@ -75,6 +75,8 @@ UK-Ecom-Data-Analysis/
 └── 📁 Report
     └── Insights_Report_UK_Retail_Business.pdf # Full PDF Report
 
+---
+
 ## ⚙️ How to Use
 Clone this repository.
 
