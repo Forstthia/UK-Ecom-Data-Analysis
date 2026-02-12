@@ -73,8 +73,8 @@ UK-Ecom-Data-Analysis/
 ├── 📁 Dashboard
 │   └── Dashboard_UK_Ecom_Analysis_v1.pbix  # Interactive Power BI File
 └── 📁 Report
-    └── Insights_Report_UK_Retail_Business.pdf # Full PDF Report```
-
+    └── Insights_Report_UK_Retail_Business.pdf # Full PDF Report
+```
 ---
 
 ## ⚙️ How to Use
